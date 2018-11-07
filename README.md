@@ -1,2 +1,2 @@
 # terminal-tetris
-play tetris in the terminal
+my first project playing around with curses. if it errors out on execution make the terminal larger 
